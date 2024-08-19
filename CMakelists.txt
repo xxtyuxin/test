@@ -1,0 +1,3 @@
+project(myMain)
+add_executable(main main.cpp add.cpp mul.cpp)
+add_definitions("-Wall -g")

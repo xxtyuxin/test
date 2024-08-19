@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/xxtyu/Desktop/test/myt/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g   -Wall -g -o CMakeFiles\\main.dir\\main.obj -c C:\\Users\\xxtyu\\Desktop\\test\\myt\\main.cpp",
+  "file": "C:/Users/xxtyu/Desktop/test/myt/main.cpp"
+},
+{
+  "directory": "C:/Users/xxtyu/Desktop/test/myt/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g   -Wall -g -o CMakeFiles\\main.dir\\add.obj -c C:\\Users\\xxtyu\\Desktop\\test\\myt\\add.cpp",
+  "file": "C:/Users/xxtyu/Desktop/test/myt/add.cpp"
+},
+{
+  "directory": "C:/Users/xxtyu/Desktop/test/myt/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g   -Wall -g -o CMakeFiles\\main.dir\\mul.obj -c C:\\Users\\xxtyu\\Desktop\\test\\myt\\mul.cpp",
+  "file": "C:/Users/xxtyu/Desktop/test/myt/mul.cpp"
+}
+]
